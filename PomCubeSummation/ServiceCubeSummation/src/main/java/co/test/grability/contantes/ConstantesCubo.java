@@ -55,4 +55,11 @@ public class ConstantesCubo {
 	
 	public final static int POS_VALID = 1;
 	public final static int POS_INVALID =0;
+	
+	public final static int W_VALID = 4;
+	public final static int W_INVALID = 1000000001;
+	
+	public final static int POS_DOS = 2;
+	
+	public final static int POS_DIEZ = 10;
 }
